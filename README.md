@@ -50,3 +50,9 @@ Este sería el índice propuesto
 Estimo la duración del curso en 12-15 horas
 
 No se necesitan conocimientos previos más allá de saber usar un ordenador conectado a Internet
+
+Como material podemos usar:
+* Portátiles
+* Algunos routers (sirven los típicos de ADSL) y switch
+* Cables
+* NodeMCU que ya irían programados

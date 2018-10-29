@@ -16,7 +16,10 @@ Este sería el índice propuesto
   * Herramienta Ping
 * Arquitectura
   *  Herramienta Traceroute
+  *  Herramientas de hacking
 * Backbones, y arquitectura de Internet
+* Servidores va servicios
+* Ejemplo: cómo funciona Google o Facebook
 
 ## Redes
 * IPs, Redes y subredes
@@ -34,12 +37,16 @@ Este sería el índice propuesto
   * Características
   * Seguridad
   * Configuración
+  * ¿Repetidores?¿Roadming?
 
 ## Protocolos
-* TCP - sockets
-* uDP (Broadcast)
+* Tipos de comunicaciones
+  * TCP - sockets
+  * uDP (Broadcast)
+  * Ejemplos de servicios
 * Seguridad  SSL
   * Herramienta PuTTY
+  * Herramienta Wireshark
 * HTTP
   * Get
   * Post

@@ -8,7 +8,7 @@ Un protocolo de comunicación  es un sistema de mensajes digitales  y unas norma
 ![Capas OSI](./images/Capas_OSI.png)
 
 
-* El  nivel físico se encarga de administrar el hardware de red.
+* El nivel físico se encarga de administrar el hardware de red.
 * El nivel enlace de datos de la topología de la red, detección de errores y direccionamiento físico.
 * El nivel de red identifica qué ruta existen en las redes.
 * El nivel de transporte  realiza el transporte de datos de una computada a otra.
@@ -16,6 +16,8 @@ Un protocolo de comunicación  es un sistema de mensajes digitales  y unas norma
 * El nivel de presentación  realiza  la representación de información de tal forma que si dos computadoras  tienen diferentes representaciones internas de la información, los datos de la comunicación se les presentan de manera  que puedan reconocerlos.
 * El nivel de aplicación  establece los protocolos que a van utilizar las aplicaciones  para el intercambio de información.
 
+
+![](./images/800px-UDP_encapsulation.svg.png)
 
 IP es un protocolo de comunicación perteneciente  al  nivel de red que es el encargado de llevar la información entre una máquina origen a una máquina destino
 
@@ -40,8 +42,8 @@ Los datos de las aplicaciones son encapsulados en lo que se conoce como paquetes
 
 
     Normalmente querremos establecer varias comunicaciones entre 2 equipos por eso se crea el concepto de Puerto
-    
-Las aplicciones suelen usar un puerto concreto para comunicarse
+
+    Las aplicaciones suelen usar un puerto concreto para comunicarse
     
     
 ### Modelo cliente/servidor
@@ -62,6 +64,33 @@ El modelo cliente-servidor es un modelo computacional que actúa como una aplica
 [Servicios/Puertos](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
 ![Protocolos.jpg](./images/Protocolos.jpg)
+
+#### Telnet (23)
+
+Es la conexión más sencilla
+
+Putty
+
+#### FTP (21)
+
+Filezilla
+
+#### SSH (22)
+
+Putty
+
+#### HTTP (80)
+
+Navegadores
+
+Podemos "simularlo" con telnet servidor 80
+
+GET /index.html HTTP/1.1\r\n
+\r\n
+
+
+
+#### NTP ()
 
 * Seguridad  SSL
   * Herramienta PuTTY

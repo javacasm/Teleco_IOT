@@ -21,6 +21,10 @@ Para eso aprendemos:
 
 Este sería el índice propuesto
 
+## [¿Qué es IOT?](./IOT.md)
+
+![IOT](./images/Internet_de_las_Cosas.jpg)
+
 ## [Funcionamiento de Internet](./Internet.md)
 * DNSs
   * Herramienta Ping

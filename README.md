@@ -6,6 +6,13 @@ Noviembre de 2018
 
 ## José Antonio Vacas Martínez @javacasm
 
+
+## [https://github.com/javacasm/Teleco_IOT/](https://github.com/javacasm/Teleco_IOT/)
+
+![Licencia CC](./images/Licencia_CC_peque.png)
+
+
+
 ---
 
 

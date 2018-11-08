@@ -32,7 +32,7 @@ Este sería el índice propuesto
   *  Herramienta Traceroute
   *  Herramientas de hacking
 * Backbones, y arquitectura de Internet
-* Servidores va servicios
+* Servidores vs servicios
 * Ejemplo: cómo funciona Google o Facebook
 
 ## [Redes](./Redes.md)
@@ -64,9 +64,12 @@ Este sería el índice propuesto
 * HTTP
   * Get
   * Post
-  * HTML
+  * [HTML](HTML.md)
   * API REST
 
+## [Hosting](./Hosting.md)
+
+## [Embebidos](./embebidos.md)
 
 Estimo la duración del curso en 12-15 horas
 

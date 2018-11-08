@@ -73,11 +73,11 @@ Putty
 
 #### FTP (21)
 
-Filezilla
+[Filezilla](https://filezilla-project.org/)
 
 #### SSH (22)
 
-Putty
+[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 #### HTTP (80)
 
@@ -93,8 +93,8 @@ GET /index.html HTTP/1.1\r\n
 #### NTP ()
 
 * Seguridad  SSL
-  * Herramienta PuTTY
-  * Herramienta Wireshark
+  * Herramienta [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+  * Herramienta [Wireshark](https://www.wireshark.org/)
 * HTTP
   * Get
   * Post

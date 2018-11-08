@@ -52,10 +52,16 @@ En todo momento podemos ver las conexiones que tiene nuestro equipo con el resto
         netstat -nt
 
 ## Tipos de Dispositivos
+  * HUB
+  * Switch/Bridge
   * Router
-  * Bridge
   * AP
+  
+[Diferencias](https://www.xataka.com/basics/cuales-son-las-diferencias-entre-hub-switch-y-routers)
 ## Configuración de routers
   * NAT
   * DMZ
-## Hosting
+  
+
+    
+

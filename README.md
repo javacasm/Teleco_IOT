@@ -78,6 +78,8 @@ Este sería el índice propuesto
 
 ## [Embebidos](./embebidos.md)
 
+## [Ejemplos](./Ejemplos.md)
+
 Estimo la duración del curso en 12-15 horas
 
 No se necesitan conocimientos previos más allá de saber usar un ordenador conectado a Internet

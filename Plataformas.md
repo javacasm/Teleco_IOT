@@ -18,6 +18,12 @@
 [Grafana](https://www.spainlabs.com/foros/tema-SpainLabsIoT2018-Grafana-Dashboard-Open-Source)
 
 
+[Fuente Jose Enrique Crespo](https://twitter.com/jecrespom)
+
+[Plataformas publicas](https://aprendiendoarduino.wordpress.com/2018/11/23/plataformas-cloud-publicas/)
+
+[Thingspeak](https://aprendiendoarduino.wordpress.com/2018/11/23/thingspeak/)
+
 ## Otras formas de publicar
 
 [Telegram](https://arduinocentermx.blogspot.com.es/2017/07/nodemcu-bot-telegram.html)
